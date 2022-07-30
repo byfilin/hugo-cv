@@ -1,11 +1,11 @@
 about:
-  name: Mert Bakir
-  tagline: Data Scientist
-  phone: "5070*4****"
-  email: yourmail@yourdomain
+  name: Yakiv Tytarenko
+  tagline: DevOps | SysOps
+  phone: "+380678760356"
+  email: filin@ymail.com
   links:
     - title: /in/mertbakir
-      url: https://tr.linkedin.com/in/mertbakir
+      url: https://www.linkedin.com/in/yakiv-tytarenko-8b0683123
       icon: fab fa-linkedin
     - title: mertbakir
       url: https://gitlab.com/mertbakir/
@@ -21,36 +21,39 @@ about:
 
 
 skills:
-  - groupName: Databases & Visualization
+  - groupName: DevOps
     list:
-      - Grafana - Kibana - PowerBI
-      - InfluxDB - TICK Stack
+      - CI/CD pipelines
+      - Automation
+      - Docker | Kubernetes | Terraform | Ansible | Jenkins
+      - GitHub | GitLab
+      - AWS | Azure
 
-  - groupName: Data Analysis & Analytics
-    list:
-      - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
 
   - groupName: Programming & Systems
     list:
-      - C# - Git - Docker - NGINX
-      - Linux - CentOS RHEL
+      - Python | C# | Bash | SQL
+      - MySQL | PostgreSQL | DynamoDB
+      - Git | NGINX
+      - Linux | CentOS | Ubuntu
 
 interests:
   - Data Science
-  - AI Applications
+  - Managment
   - Optimization Problems
 
 languages:
-  - name: Turkish
+  - name: Ukrainian | Russian
     level: Native
 
   - name: English
-    level: Professional
+    level: B2
     certificates:
-      - "YDS: 86.25 - 2018"
-      - "TOEFL: 109 - 2021"
+      - "CEFR: 180 - 2021"
+
+  - name: Hebrew
+    level: B1
+
 
 # This will use the default widget: "details-list"
 awards:
